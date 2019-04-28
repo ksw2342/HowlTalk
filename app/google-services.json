@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875464703096",
+    "firebase_url": "https://howltalk-3b34d.firebaseio.com",
+    "project_id": "howltalk-3b34d",
+    "storage_bucket": "howltalk-3b34d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875464703096:android:586d0c1f3e9f1af2",
+        "android_client_info": {
+          "package_name": "com.sangwoo.howltalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875464703096-ca9jf0ppfh4cngn67gkf7as0octqcvpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sangwoo.howltalk",
+            "certificate_hash": "9262de553aee13fc25346afd93f56d868efb22c5"
+          }
+        },
+        {
+          "client_id": "875464703096-nhcp9nle08cc25k9hppb7276s4roal69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjG2bFpj89pIan03qmSdKkUVs31j0pc1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875464703096-nhcp9nle08cc25k9hppb7276s4roal69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
